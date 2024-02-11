@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965688744781",
+    "project_id": "authenticationapp-8df3c",
+    "storage_bucket": "authenticationapp-8df3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965688744781:android:17b746a645c7ee244db504",
+        "android_client_info": {
+          "package_name": "com.irsyad.filmku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iHnoISLqXn_aPts6lYfBDK97cLGZ4z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

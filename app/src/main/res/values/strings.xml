@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FilmKita</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+Nice to meet you, come join our community!
+<br><b>Login</b> if you already have an account.</br> <br><b>Register</b> to get started with the app.</br>
+</string>
+    <string name="illustration_img">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title">
+  <font color="#00C9B8"><b>Login</b></font>
+    if you already have an account.
+    </string>
+    <string name="login_havent_account">
+        I dont have an a account
+        <font color="#00C9B8"><b>Register</b></font>
+    </string>
+
+    <string name="login_register_title">
+  <font color="#00C9B8"><b>Register</b></font>
+    to get started with the app
+    </string>
+    <string name="default_title">Unknown Title</string>
+
+    <string name="register_have_account">
+        I already have an account
+        <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="reset_pw_title">Reset Your Password</string>
+    <string name="reset_pw_sub_title">
+        <font color="#00C9B8">Reset Password</font>
+        if you forget your password.
+    </string>
+    <string name="reset_password">Reset Password</string>
+
+    <string name="back_to_login">
+        Back to
+        <font color="#00C9B8"><b>Login</b></font>
+    </string>
+
+</resources>
